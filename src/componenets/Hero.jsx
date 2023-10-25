@@ -5,7 +5,7 @@ import { logo } from "../assets";
 const Hero = () => {
     return (
         <header className='w-full flex justify-center items-center flex-col'> {/*Header is the introductory componenets like the logo. take 100 of width, center the items, items will be in col not in row. */}
-            <nav className='flex justify-between items-center w-full mb-10 pt-3'> {/*Contains navigation menu*/}
+            <nav className='flex justify-between items-center w-full mb-10 pt-3'> {/*Contains navigation bar*/}
                 <img src={logo} alt='sumz_logo' className='w-28 object-contain' />
 
                 <button
