@@ -18,7 +18,7 @@ Redux Toolkit: A set of tools that simplifies the process of managing state in R
 
 
 
-![Image Alt Text](src/assets/intro.jpg)
+![Image Alt Text](src/assets/intro.png)
 
-![Image Alt Text](src/assets/article.jpg)
+![Image Alt Text](src/assets/article.png)
 
