@@ -18,6 +18,8 @@ Sumz is an open-source article summarization tool powered by the advanced capabi
 
 ##
 
+
+
 ![Image Alt Text](src/assets/intro.png)
 
 ![Image Alt Text](src/assets/article.png)
