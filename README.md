@@ -9,14 +9,14 @@ Sumz is an open-source article summarization tool powered by the advanced capabi
 - Error Handling: Robust error handling if the invalid link is entered to ensure a smooth user experience.
 
 ## Technologies Used
-ReactJS: A popular JavaScript library for building user interfaces.
-Tailwind CSS: A utility-first CSS framework for designing modern, responsive web applications.
-OpenAI API: Leveraging the power of OpenAI for accurate and coherent article summarization.
-Vite: A fast and minimalist build tool for modern web development.
-RTK Query: Redux Toolkit Query for efficient data fetching and state management.
-Redux Toolkit: A set of tools that simplifies the process of managing state in React applications.
+- ReactJS: A popular JavaScript library for building user interfaces.
+- Tailwind CSS: A utility-first CSS framework for designing modern, responsive web applications.
+- OpenAI API: Leveraging the power of OpenAI for accurate and coherent article summarization.
+- Vite: A fast and minimalist build tool for modern web development.
+- RTK Query: Redux Toolkit Query for efficient data fetching and state management.
+- Redux Toolkit: A set of tools that simplifies the process of managing state in React applications.
 
-
+##
 
 ![Image Alt Text](src/assets/intro.png)
 
